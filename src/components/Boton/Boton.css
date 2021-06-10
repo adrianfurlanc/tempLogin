@@ -1,0 +1,18 @@
+
+.boton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 5em;
+    height: 2.5em;
+
+    background-color: darkred;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+.boton:hover {
+    background-color: red;
+    transition: 0.4s;
+
+}
